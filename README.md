@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+## Rock-Paper-Scissors game built with React and Styled Components, featuring clean design and simple, easy-to-understand code.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
